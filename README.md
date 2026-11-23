@@ -13,6 +13,8 @@ Loja oficial de apps do **PedroOS**. O app PedroStore (dentro do PedroOS) lê o
 index.json              lista de apps da loja
 pacotes/
   tinta-1.0.pedroapp    pacotes dos apps (app.json + app.pck)
+  imagens-1.0.pedroapp
+  planilha-1.0.pedroapp
 ```
 
 ## index.json

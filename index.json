@@ -27,6 +27,20 @@
    ],
    "pacote": "pacotes/imagens-1.0.pedroapp",
    "sha256": "9a5a7641ab86094f9c08383f718c79183d8a9a844039f972cf168a90c9ebfe65"
+  },
+  {
+   "id": "planilha",
+   "nome": "Planilha",
+   "versao": "1.0",
+   "autor": "Pedro",
+   "descricao": "Planilha com fórmulas (=A1+B2, SOMA, MÉDIA, MÍN, MÁX, CONT, SE), que abre e salva CSV (separado por ponto e vírgula, como o Excel em português). Um tiro numa célula embaralha o que está nela; desfazer conserta.",
+   "permissoes": [
+    "world",
+    "som",
+    "arquivos"
+   ],
+   "pacote": "pacotes/planilha-1.0.pedroapp",
+   "sha256": "aae7a43c25ca69be3f40c7a59cf363d101ea93d325a8f78ab52a71eb0cba5a3a"
   }
  ]
 }
