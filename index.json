@@ -13,6 +13,20 @@
    ],
    "pacote": "pacotes/tinta-1.0.pedroapp",
    "sha256": "fdc6e6b12788d5e3f08f5d00cc98a93c35bb52b43e7934980cc8cc4e5c0667a3"
+  },
+  {
+   "id": "imagens",
+   "nome": "Imagens",
+   "versao": "1.0",
+   "autor": "Pedro",
+   "descricao": "Veja as fotos e desenhos da pasta /Imagens: grade de miniaturas, zoom, girar e importar do aparelho. Abre PNG, JPG, WebP, BMP e SVG. Um tiro trinca o vidro na frente da imagem; desfazer conserta.",
+   "permissoes": [
+    "world",
+    "som",
+    "arquivos"
+   ],
+   "pacote": "pacotes/imagens-1.0.pedroapp",
+   "sha256": "9a5a7641ab86094f9c08383f718c79183d8a9a844039f972cf168a90c9ebfe65"
   }
  ]
 }
