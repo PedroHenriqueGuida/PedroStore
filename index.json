@@ -69,6 +69,19 @@
    ],
    "pacote": "pacotes/shell-1.0.pedroapp",
    "sha256": "4807838d3e151f4dba6a2e1d5c248e20abaf1e7886c6f1eb3585e485320cf6d5"
+  },
+  {
+   "id": "breakout",
+   "nome": "Breakout",
+   "versao": "1.0",
+   "autor": "Pedro",
+   "descricao": "Breakout jogado no desktop inteiro: as janelas abertas e os ícones são os tijolos. Cada batida faz o app reagir como a um tiro; janela leva 3 batidas, ícone 1. No fim do jogo tudo volta ao lugar.",
+   "permissoes": [
+    "world",
+    "som"
+   ],
+   "pacote": "pacotes/breakout-1.0.pedroapp",
+   "sha256": "6407a3ee210dfce403a1dab57a4b1f55d0d080e1c5c9b9b3aad4e2c538fca708"
   }
  ]
 }
