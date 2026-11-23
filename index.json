@@ -41,6 +41,20 @@
    ],
    "pacote": "pacotes/planilha-1.0.pedroapp",
    "sha256": "aae7a43c25ca69be3f40c7a59cf363d101ea93d325a8f78ab52a71eb0cba5a3a"
+  },
+  {
+   "id": "documentos",
+   "nome": "Documentos",
+   "versao": "1.0",
+   "autor": "Pedro",
+   "descricao": "Leia e escreva Markdown formatado (títulos, negrito, listas, tabelas, links) e abra o texto de arquivos .docx do Word. Um tiro queima um furo no papel; desfazer apaga a queimadura.",
+   "permissoes": [
+    "world",
+    "som",
+    "arquivos"
+   ],
+   "pacote": "pacotes/documentos-1.0.pedroapp",
+   "sha256": "3a848fc316a012f08eddf7f5060633158076efa1648fb8144bcb4345a1bc36b8"
   }
  ]
 }

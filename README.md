@@ -15,6 +15,7 @@ pacotes/
   tinta-1.0.pedroapp    pacotes dos apps (app.json + app.pck)
   imagens-1.0.pedroapp
   planilha-1.0.pedroapp
+  documentos-1.0.pedroapp
 ```
 
 ## index.json
