@@ -16,6 +16,7 @@ pacotes/
   imagens-1.0.pedroapp
   planilha-1.0.pedroapp
   documentos-1.0.pedroapp
+  shell-1.0.pedroapp
 ```
 
 ## index.json

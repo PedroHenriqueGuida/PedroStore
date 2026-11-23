@@ -55,6 +55,20 @@
    ],
    "pacote": "pacotes/documentos-1.0.pedroapp",
    "sha256": "3a848fc316a012f08eddf7f5060633158076efa1648fb8144bcb4345a1bc36b8"
+  },
+  {
+   "id": "shell",
+   "nome": "PedroShell",
+   "versao": "1.0",
+   "autor": "Pedro",
+   "descricao": "Terminal do PedroOS: arquivos (ls, cd, ver, criar, renomear, apagar para a Lixeira), abrir apps, contas, sons e comandos do World (atirar, asteroide). Um tiro corrompe a linha atingida; desfazer conserta e também traz de volta o que foi apagado.",
+   "permissoes": [
+    "world",
+    "som",
+    "arquivos"
+   ],
+   "pacote": "pacotes/shell-1.0.pedroapp",
+   "sha256": "4807838d3e151f4dba6a2e1d5c248e20abaf1e7886c6f1eb3585e485320cf6d5"
   }
  ]
 }
