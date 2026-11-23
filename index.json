@@ -1,0 +1,18 @@
+{
+ "loja": "PedroStore",
+ "apps": [
+  {
+   "id": "tinta",
+   "nome": "Tinta",
+   "versao": "1.0",
+   "autor": "Pedro",
+   "descricao": "Desenhe com o dedo. Os tiros que atravessam o desktop deixam manchas de tinta. Desfazer tira o último traço ou mancha.",
+   "permissoes": [
+    "world",
+    "som"
+   ],
+   "pacote": "pacotes/tinta-1.0.pedroapp",
+   "sha256": "fdc6e6b12788d5e3f08f5d00cc98a93c35bb52b43e7934980cc8cc4e5c0667a3"
+  }
+ ]
+}
