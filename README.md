@@ -17,7 +17,7 @@ pacotes/
   planilha-1.0.pedroapp
   documentos-1.0.pedroapp
   shell-1.0.pedroapp
-  breakout-1.0.pedroapp
+  breakout-1.1.pedroapp
 ```
 
 ## index.json
