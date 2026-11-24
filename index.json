@@ -17,7 +17,7 @@
   {
    "id": "imagens",
    "nome": "Imagens",
-   "versao": "1.0",
+   "versao": "1.1",
    "autor": "Pedro",
    "descricao": "Veja as fotos e desenhos da pasta /Imagens: grade de miniaturas, zoom, girar e importar do aparelho. Abre PNG, JPG, WebP, BMP e SVG. Um tiro trinca o vidro na frente da imagem; desfazer conserta.",
    "permissoes": [
@@ -25,8 +25,8 @@
     "som",
     "arquivos"
    ],
-   "pacote": "pacotes/imagens-1.0.pedroapp",
-   "sha256": "9a5a7641ab86094f9c08383f718c79183d8a9a844039f972cf168a90c9ebfe65"
+   "pacote": "pacotes/imagens-1.1.pedroapp",
+   "sha256": "1e0bcbaf264286454ad66c5e095654683a62e2e3d5072fc26559bc1c69f73a81"
   },
   {
    "id": "planilha",
