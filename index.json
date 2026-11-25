@@ -169,6 +169,20 @@
    ],
    "pacote": "pacotes/gerador-1.0.pedroapp",
    "sha256": "b1670ca24fd39fab082b1bee564c798a1522fe33ef031fec4e904ec807c9e33c"
+  },
+  {
+   "id": "missoes2",
+   "nome": "Missões: Grupo 2",
+   "versao": "1.0",
+   "autor": "Pedro",
+   "categoria": "Jogos",
+   "descricao": "Mais missões para a Nave: uma fase bônus de doces no espaço e 5 fases novas (Vulcões de Plasma, Cidade Neon, Selva de Esporos, Tempestade Elétrica e Núcleo do Vírus), com mais inimigos, 6 alienígenas novos e 5 chefões. Aparece no botão Missão da Nave.",
+   "permissoes": [
+    "world",
+    "som"
+   ],
+   "pacote": "pacotes/missoes2-1.0.pedroapp",
+   "sha256": "fe5f6a1e4ee7dc4552a127acab4e137e15bd516f7a8b69b8dbe814cc0ea087b6"
   }
  ]
 }
