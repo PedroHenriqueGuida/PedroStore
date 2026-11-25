@@ -18,6 +18,8 @@ pacotes/
   documentos-1.0.pedroapp
   shell-1.0.pedroapp
   breakout-1.1.pedroapp
+  paciencia-1.0.pedroapp, campominado-1.0.pedroapp, deslizar-1.0.pedroapp,
+  quebracabeca-1.0.pedroapp, memoria-1.0.pedroapp  (categoria Jogos)
 ```
 
 ## index.json

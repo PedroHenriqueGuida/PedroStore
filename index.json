@@ -81,7 +81,79 @@
     "som"
    ],
    "pacote": "pacotes/breakout-1.1.pedroapp",
-   "sha256": "990e31473b8591e68bd75244d905510cd9b0fc4b8cc57f6451de7284483f2fbf"
+   "sha256": "990e31473b8591e68bd75244d905510cd9b0fc4b8cc57f6451de7284483f2fbf",
+   "categoria": "Jogos"
+  },
+  {
+   "id": "paciencia",
+   "nome": "Paciência",
+   "versao": "1.0",
+   "autor": "Pedro",
+   "categoria": "Jogos",
+   "descricao": "Paciência clássica (Klondike): arraste as cartas ou toque para mandar ao lugar certo. Um tiro numa carta que pode subir para as pilhas de naipe manda ela para lá; desfazer volta qualquer jogada.",
+   "permissoes": [
+    "world",
+    "som"
+   ],
+   "pacote": "pacotes/paciencia-1.0.pedroapp",
+   "sha256": "3d5a278ce3a1d2b57bb99063f4ce3b9bbcd75cc14b16554b5ef61f21ed5e358b"
+  },
+  {
+   "id": "campominado",
+   "nome": "Campo Minado",
+   "versao": "1.0",
+   "autor": "Pedro",
+   "categoria": "Jogos",
+   "descricao": "Campo Minado com 3 níveis, bandeira por toque longo, botão direito ou modo bandeira. Um tiro numa casa abre ela (cuidado com as minas: explodem no desktop). Desfazer volta até depois de pisar numa mina.",
+   "permissoes": [
+    "world",
+    "som"
+   ],
+   "pacote": "pacotes/campominado-1.0.pedroapp",
+   "sha256": "57b3bb15b88ba29c05b0c8b68a4936ac64bd8e0c738b0a0ace042b773f602487"
+  },
+  {
+   "id": "deslizar",
+   "nome": "Slide Puzzle",
+   "versao": "1.0",
+   "autor": "Pedro",
+   "categoria": "Jogos",
+   "descricao": "Quebra-cabeça de deslizar (3×3, 4×4, 5×5): toque numa peça na linha ou coluna do espaço vazio. Um tiro empurra a peça atingida; desfazer volta as jogadas.",
+   "permissoes": [
+    "world",
+    "som"
+   ],
+   "pacote": "pacotes/deslizar-1.0.pedroapp",
+   "sha256": "6d3e0cf78e887f6185b1b0b7a3d2ddda142f27391ab04cc561d6eeaec78a1934"
+  },
+  {
+   "id": "quebracabeca",
+   "nome": "Quebra-cabeça",
+   "versao": "1.0",
+   "autor": "Pedro",
+   "categoria": "Jogos",
+   "descricao": "Quebra-cabeça de peças com encaixe, de 9 a 36 peças, com o desenho do PedroOS ou as suas imagens da pasta Imagens. Um tiro arranca a peça atingida; desfazer devolve.",
+   "permissoes": [
+    "world",
+    "som",
+    "arquivos"
+   ],
+   "pacote": "pacotes/quebracabeca-1.0.pedroapp",
+   "sha256": "bf81162544232d19441583eb868db4ef28c1a74d9966dc7c62751e1c531d61bf"
+  },
+  {
+   "id": "memoria",
+   "nome": "Jogo da Memória",
+   "versao": "1.0",
+   "autor": "Pedro",
+   "categoria": "Jogos",
+   "descricao": "Jogo da Memória com 16, 24 ou 36 cartas. Um tiro numa carta espia ela por um instante; desfazer volta a última tentativa.",
+   "permissoes": [
+    "world",
+    "som"
+   ],
+   "pacote": "pacotes/memoria-1.0.pedroapp",
+   "sha256": "3303c39d38785f4c53c0df472e5344225e3545be70a4ccb1a778f5263a813cf1"
   }
  ]
 }
