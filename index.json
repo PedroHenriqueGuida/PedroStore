@@ -154,6 +154,21 @@
    ],
    "pacote": "pacotes/memoria-1.0.pedroapp",
    "sha256": "3303c39d38785f4c53c0df472e5344225e3545be70a4ccb1a778f5263a813cf1"
+  },
+  {
+   "id": "gerador",
+   "nome": "Gerador de Imagens",
+   "versao": "1.0",
+   "autor": "Pedro",
+   "categoria": "Criatividade",
+   "descricao": "Cria imagens alienígenas: planetas, nebulosas, paisagens, fluidos, mandalas e criaturas. Cada toque em Gerar é uma imagem nova; salve em /Imagens para usar no Quebra-cabeça. Um tiro na imagem causa uma mutação; desfazer volta.",
+   "permissoes": [
+    "world",
+    "som",
+    "arquivos"
+   ],
+   "pacote": "pacotes/gerador-1.0.pedroapp",
+   "sha256": "b1670ca24fd39fab082b1bee564c798a1522fe33ef031fec4e904ec807c9e33c"
   }
  ]
 }
