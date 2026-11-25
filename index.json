@@ -115,16 +115,16 @@
   {
    "id": "deslizar",
    "nome": "Slide Puzzle",
-   "versao": "1.0",
+   "versao": "1.1",
    "autor": "Pedro",
    "categoria": "Jogos",
-   "descricao": "Quebra-cabeça de deslizar (3×3, 4×4, 5×5): toque numa peça na linha ou coluna do espaço vazio. Um tiro empurra a peça atingida; desfazer volta as jogadas.",
+   "descricao": "Slide Puzzle com 8 fases de imagens (praia, lugar gelado, mapas de Portugal, do Brasil e do mundo, fundo do mar, espaço sideral, alienígenas), de 3×3 a 6×6, e o modo Livre com números. Resolver uma fase libera a próxima. Um tiro empurra a peça atingida; desfazer volta as jogadas.",
    "permissoes": [
     "world",
     "som"
    ],
-   "pacote": "pacotes/deslizar-1.0.pedroapp",
-   "sha256": "6d3e0cf78e887f6185b1b0b7a3d2ddda142f27391ab04cc561d6eeaec78a1934"
+   "pacote": "pacotes/deslizar-1.1.pedroapp",
+   "sha256": "dde74f06b923ffa5e9f9081d4bc614a00308689fcb42432a60239a0e8e8a3b29"
   },
   {
    "id": "quebracabeca",
