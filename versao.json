@@ -1,17 +1,17 @@
 {
- "versao": "1.34",
- "codigo": 35,
- "notas": "Uma bomba por toque e bombinhas mais afastadas.",
+ "versao": "1.35",
+ "codigo": 36,
+ "notas": "Bomba com outro dedo sem parar o tiro.",
  "android": {
-  "codigo": 35,
-  "url": "https://pedrohenriqueguida.github.io/PedroStore/baixar/PedroOS-1.34.apk",
-  "tamanho": 29811548,
-  "sha256": "285678940ac135cd705ab64834832704a31f44e3bfa2d4ee9db3cbe69286cd0b"
+  "codigo": 36,
+  "url": "https://pedrohenriqueguida.github.io/PedroStore/baixar/PedroOS-1.35.apk",
+  "tamanho": 29815644,
+  "sha256": "6023753430f280bf56e6d39a24187f872d6eef18545c4575d9a0ea1370d9c86b"
  },
  "windows": {
-  "codigo": 35,
-  "url": "https://pedrohenriqueguida.github.io/PedroStore/baixar/PedroOS-1.34-windows.zip",
-  "tamanho": 41302224,
-  "sha256": "ea611f4e78c7cd6e9486e963dbb8566f6bbec3b9a03c4a1c0b72f8195ca7f023"
+  "codigo": 36,
+  "url": "https://pedrohenriqueguida.github.io/PedroStore/baixar/PedroOS-1.35-windows.zip",
+  "tamanho": 41302723,
+  "sha256": "212716b61208af3f2a0791440369ad64b0b81361bb9a4e32386679b980034a6c"
  }
 }
