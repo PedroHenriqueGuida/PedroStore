@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1795812162|2741573';
+const CACHE_VERSION = '1795813204|2743342';
 /** @type {string} */
 const CACHE_PREFIX = 'PedroOS-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;

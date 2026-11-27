@@ -1,17 +1,17 @@
 {
- "versao": "1.33",
- "codigo": 34,
- "notas": "Tiros só batem no desenho dos ícones (não mais no nome e no espaço vazio).",
+ "versao": "1.34",
+ "codigo": 35,
+ "notas": "Uma bomba por toque e bombinhas mais afastadas.",
  "android": {
-  "codigo": 34,
-  "url": "https://pedrohenriqueguida.github.io/PedroStore/baixar/PedroOS-1.33.apk",
+  "codigo": 35,
+  "url": "https://pedrohenriqueguida.github.io/PedroStore/baixar/PedroOS-1.34.apk",
   "tamanho": 29811548,
-  "sha256": "e50e7daf7175cb81355454504c212bb6e57bd719ca2d8f793905c2a5a57f9d45"
+  "sha256": "285678940ac135cd705ab64834832704a31f44e3bfa2d4ee9db3cbe69286cd0b"
  },
  "windows": {
-  "codigo": 34,
-  "url": "https://pedrohenriqueguida.github.io/PedroStore/baixar/PedroOS-1.33-windows.zip",
-  "tamanho": 41301936,
-  "sha256": "e4335374090efb9ab70b2007e3e3a6b8c9b7a4ce975a68a28ebf5075f91cf742"
+  "codigo": 35,
+  "url": "https://pedrohenriqueguida.github.io/PedroStore/baixar/PedroOS-1.34-windows.zip",
+  "tamanho": 41302224,
+  "sha256": "ea611f4e78c7cd6e9486e963dbb8566f6bbec3b9a03c4a1c0b72f8195ca7f023"
  }
 }
