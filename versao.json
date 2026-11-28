@@ -1,17 +1,17 @@
 {
- "versao": "1.38",
- "codigo": 39,
- "notas": "Zoom por aparelho (celular 125%, tablet 112%, PC 100%) e botão Ajustes na missão.",
+ "versao": "1.39",
+ "codigo": 40,
+ "notas": "Perder um coração zera as armas e o inventário.",
  "android": {
-  "codigo": 39,
-  "url": "https://pedrohenriqueguida.github.io/PedroStore/baixar/PedroOS-1.38.apk",
+  "codigo": 40,
+  "url": "https://pedrohenriqueguida.github.io/PedroStore/baixar/PedroOS-1.39.apk",
   "tamanho": 29819740,
-  "sha256": "27c10106746e9d92cf653a31eb9e0553b275e117b6b7e03921d434796efec551"
+  "sha256": "5cfdd5267ad7645f71b4235be47be272443ca76848971b98acdfbf48040b24bf"
  },
  "windows": {
-  "codigo": 39,
-  "url": "https://pedrohenriqueguida.github.io/PedroStore/baixar/PedroOS-1.38-windows.zip",
-  "tamanho": 41308316,
-  "sha256": "b3d64bd3705e053674a40f98d638d815396516f3615cd68486358625c03baa7f"
+  "codigo": 40,
+  "url": "https://pedrohenriqueguida.github.io/PedroStore/baixar/PedroOS-1.39-windows.zip",
+  "tamanho": 41308327,
+  "sha256": "762a9b1b83c3ade4f7eecbfb640511505424c61eb88e94e2fc18af32bbaa121e"
  }
 }
