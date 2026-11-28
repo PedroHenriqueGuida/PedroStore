@@ -1,17 +1,17 @@
 {
- "versao": "1.37",
- "codigo": 38,
- "notas": "Placar bem maior, instruções no lugar e nave/inimigos um pouco maiores.",
+ "versao": "1.38",
+ "codigo": 39,
+ "notas": "Zoom por aparelho (celular 125%, tablet 112%, PC 100%) e botão Ajustes na missão.",
  "android": {
-  "codigo": 38,
-  "url": "https://pedrohenriqueguida.github.io/PedroStore/baixar/PedroOS-1.37.apk",
-  "tamanho": 29815644,
-  "sha256": "e7279a2a4bbe8bf099cf6f53295435f311b5305e60ba2c2be39082ca5f96984d"
+  "codigo": 39,
+  "url": "https://pedrohenriqueguida.github.io/PedroStore/baixar/PedroOS-1.38.apk",
+  "tamanho": 29819740,
+  "sha256": "27c10106746e9d92cf653a31eb9e0553b275e117b6b7e03921d434796efec551"
  },
  "windows": {
-  "codigo": 38,
-  "url": "https://pedrohenriqueguida.github.io/PedroStore/baixar/PedroOS-1.37-windows.zip",
-  "tamanho": 41305468,
-  "sha256": "a9027818c2c8bf3a3ed3c7011a2ca019eedbef1e8e16938366c6a35821238c94"
+  "codigo": 39,
+  "url": "https://pedrohenriqueguida.github.io/PedroStore/baixar/PedroOS-1.38-windows.zip",
+  "tamanho": 41308316,
+  "sha256": "b3d64bd3705e053674a40f98d638d815396516f3615cd68486358625c03baa7f"
  }
 }
