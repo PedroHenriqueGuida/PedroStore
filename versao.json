@@ -1,17 +1,17 @@
 {
- "versao": "1.35",
- "codigo": 36,
- "notas": "Bomba com outro dedo sem parar o tiro.",
+ "versao": "1.36",
+ "codigo": 37,
+ "notas": "Zoom próprio da missão (100% por padrão) com placar maior para compensar.",
  "android": {
-  "codigo": 36,
-  "url": "https://pedrohenriqueguida.github.io/PedroStore/baixar/PedroOS-1.35.apk",
+  "codigo": 37,
+  "url": "https://pedrohenriqueguida.github.io/PedroStore/baixar/PedroOS-1.36.apk",
   "tamanho": 29815644,
-  "sha256": "6023753430f280bf56e6d39a24187f872d6eef18545c4575d9a0ea1370d9c86b"
+  "sha256": "21bda1e49c76f552882634a069c5a6e3f3e89867c951cd1460d1aa8fdb8e8743"
  },
  "windows": {
-  "codigo": 36,
-  "url": "https://pedrohenriqueguida.github.io/PedroStore/baixar/PedroOS-1.35-windows.zip",
-  "tamanho": 41302723,
-  "sha256": "212716b61208af3f2a0791440369ad64b0b81361bb9a4e32386679b980034a6c"
+  "codigo": 37,
+  "url": "https://pedrohenriqueguida.github.io/PedroStore/baixar/PedroOS-1.36-windows.zip",
+  "tamanho": 41304338,
+  "sha256": "93743a3e77ea5bbb016a2b244237afcd70f1534ba6377203b80a9fa0631cb4db"
  }
 }
